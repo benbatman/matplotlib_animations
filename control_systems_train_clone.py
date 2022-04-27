@@ -1,3 +1,6 @@
+#Project learned from Mark Misin's Udemy course: Python engineering animations: Bring math & data to life
+#This is a project directly from that course.
+
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import matplotlib.animation as animation
